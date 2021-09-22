@@ -1,5 +1,6 @@
 body{
   margin: 0;
+  background-color: hsl(0, 0%, 4%);
 }
 
 ul {
@@ -33,7 +34,7 @@ li a:hover {
 .head {
   background: url("photo-1616004655123-818cbd4b3143.jpg") no-repeat center;
   background-size: cover;
-  height: 886px;
+  height: 760px;
   position: relative;
 }
 
@@ -55,6 +56,7 @@ h1 {
 }
 
 div.textabout {
+  color: aliceblue;
   max-width: 800px;
   margin: auto;
 }
